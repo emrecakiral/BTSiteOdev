@@ -1,0 +1,220 @@
+﻿body {
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.clearFix {
+    clear: both;
+}
+
+#MenuKisayol {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+    #MenuKisayol li {
+        float: left;
+        padding: 10px;
+        margin: 0px;
+    }
+
+        #MenuKisayol li a {
+            color: white;
+            text-decoration: none;
+            font-size: 15px;
+        }
+
+.headerRow1 {
+    background-color: #0082C4;
+}
+
+#sosyalmedya {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+    #sosyalmedya li {
+        float: left;
+        padding: 0px 10px 10px 10px;
+        width: 30px;
+        margin-left: 25px;
+    }
+
+        #sosyalmedya li i {
+            color: white;
+        }
+
+#searchPanel {
+    float: right;
+    margin-top: 25px;
+    border: 0px;
+}
+
+.col {
+    padding: 0px;
+}
+
+
+#txtSearch {
+    height: 40px;
+    width: 350px;
+    float: left;
+    padding: 8px 17px;
+    font-size: 16px;
+    font-family: Verdana;
+    color: gray;
+    border: 1px;
+}
+
+    #txtSearch:focus {
+        outline: none;
+    }
+
+#btnSearch {
+    background-image: url('/images/search_icon.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    background-color: white;
+    width: 30px;
+    height: 40px;
+    padding: 6px;
+}
+
+#logo {
+    width: 268px;
+    margin: 15px 0px;
+}
+
+.row {
+    margin: 0px;
+}
+
+.container {
+    padding: 0px;
+}
+
+.headerRow2 {
+    background-color: #fcfcfc
+}
+
+#soru1 {
+    float: right;
+}
+
+#soru2 {
+    float: right;
+    padding-top: 11px;
+    padding-left: 20px;
+}
+
+#soruSol {
+    float: left;
+    width: 50px;
+}
+
+#soruSag {
+    float: right;
+    height: 50px;
+    padding-left: 10px;
+}
+
+.soruIconText {
+    font-size: 50px;
+}
+
+
+.ustSag {
+    margin-bottom: 5px;
+}
+
+.ust2 {
+    padding: 5px 0px 5px 0px;
+}
+
+.headerRow3 {
+    background-color: #121F27;
+    padding: 0px;
+}
+
+.btn-dark {
+    border: 0px;
+    background-color: transparent;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 30px;
+}
+
+.btn-light {
+    border-radius: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-dark:hover {
+    color: black;
+    background-color: white;
+    border-color: #1d2124;
+}
+
+button {
+    margin-right: 8px;
+}
+
+#btnBasvur {
+    background-color: #0082C4;
+    float: right;
+    font-size: 14px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    padding: 25px 15px;
+    border: 1px;
+    text-align: center;
+    height: 74px;
+}
+
+.basvur {
+    margin: auto 0px;
+    list-style: none;
+}
+
+.navbar {
+    margin: 10px;
+    padding-left: 0px;
+}
+
+#titleNeden {
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#baslikAciklama {
+    color: #666666;
+}
+
+.infoImg {
+    text-align: center;
+    height: 100px;
+    width: 103px;
+    font-size: 60px;
+    padding: 17px 10px;
+    margin:auto;
+}
+
+
+.info{
+    margin: 10px;
+    text-align:center;
+}
+
+.infoUst{
+    margin-top: 50px;
+}
+
+h2{
+    margin: 25px;
+}
+
+.card {
+    border-left: 3px solid #0082C4 !important;
+}
