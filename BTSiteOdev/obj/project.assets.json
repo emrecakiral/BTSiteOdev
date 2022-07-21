@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\BTSiteOdev.csproj",
+      "projectUniqueName": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\BTSiteOdev.csproj",
       "projectName": "BTSiteOdev",
-      "projectPath": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\BTSiteOdev.csproj",
+      "projectPath": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\BTSiteOdev.csproj",
       "packagesPath": "C:\\Users\\emrec\\.nuget\\packages\\",
-      "outputPath": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\obj\\",
+      "outputPath": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emrec\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

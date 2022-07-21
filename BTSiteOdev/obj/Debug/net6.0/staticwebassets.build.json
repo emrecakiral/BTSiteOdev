@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7Uan3ygR56m0ZZ7G9vK6r9GnSwNZB5x58uTWTPSL9tw=",
+  "Hash": "ZDkVbyrZmMEr4Dq+JSFwa9qhfS4JbvGA7Av0fYhLNIk=",
   "Source": "BTSiteOdev",
   "BasePath": "_content/BTSiteOdev",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BTSiteOdev\\wwwroot",
       "Source": "BTSiteOdev",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\.DS_Store",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\.DS_Store",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "css/.DS_Store",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\.DS_Store"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap.css.map",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap.css.map",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "css/bootstrap.css.map",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-grid.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-grid.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-grid.css.map",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-grid.min.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-reboot.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-reboot.css.map",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-reboot.min.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\all.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\all.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/all.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\all.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\all.min.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\all.min.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/all.min.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\all.min.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\brands.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\brands.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/brands.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\brands.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\brands.min.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\brands.min.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/brands.min.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\brands.min.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\fontawesome.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\fontawesome.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/fontawesome.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\fontawesome.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\fontawesome.min.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\fontawesome.min.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/fontawesome.min.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\regular.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\regular.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/regular.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\regular.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\regular.min.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\regular.min.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/regular.min.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\regular.min.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\solid.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\solid.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/solid.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\solid.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\solid.min.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\solid.min.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/solid.min.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\solid.min.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\svg-with-js.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\svg-with-js.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/svg-with-js.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\svg-with-js.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\svg-with-js.min.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\svg-with-js.min.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/svg-with-js.min.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\svg-with-js.min.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\v4-font-face.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\v4-font-face.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/v4-font-face.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\v4-font-face.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\v4-font-face.min.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\v4-font-face.min.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/v4-font-face.min.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\v4-font-face.min.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\v4-shims.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\v4-shims.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/v4-shims.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\v4-shims.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\v4-shims.min.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\v4-shims.min.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/v4-shims.min.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\v4-shims.min.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\v5-font-face.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\v5-font-face.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/v5-font-face.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\v5-font-face.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\v5-font-face.min.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\css\\v5-font-face.min.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/css/v5-font-face.min.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\font\\css\\v5-font-face.min.css"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-brands-400.ttf",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-brands-400.ttf",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\font\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-brands-400.woff2",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-brands-400.woff2",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\font\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-regular-400.ttf",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-regular-400.ttf",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\font\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-regular-400.woff2",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-regular-400.woff2",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\font\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-solid-900.ttf",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-solid-900.ttf",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\font\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-solid-900.woff2",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-solid-900.woff2",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\font\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-v4compatibility.ttf",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-v4compatibility.ttf",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/webfonts/fa-v4compatibility.ttf",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\font\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-v4compatibility.woff2",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\font\\webfonts\\fa-v4compatibility.woff2",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "font/webfonts/fa-v4compatibility.woff2",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\font\\webfonts\\fa-v4compatibility.woff2"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\Index.html",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\Index.html",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "Index.html",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\Index.html"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\images\\search_icon.png",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\images\\search_icon.png",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "images/search_icon.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\search_icon.png"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.bundle.js",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.bundle.js.map",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.js",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.js",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.js.map",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.js.map",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\js\\bootstrap.min.js.map",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\style\\style.css",
+      "Identity": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\style\\style.css",
       "SourceId": "BTSiteOdev",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\BTAkademi\\Web Prog\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
+      "ContentRoot": "D:\\BTAkademi\\Ödevlerim\\BTSiteOdev\\BTSiteOdev\\wwwroot\\",
       "BasePath": "_content/BTSiteOdev",
       "RelativePath": "style/style.css",
       "AssetKind": "All",

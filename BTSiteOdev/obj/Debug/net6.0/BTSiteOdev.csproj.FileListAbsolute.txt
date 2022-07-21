@@ -20,3 +20,25 @@ D:\BTAkademi\Web Prog\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\refint\BTSiteOdev.d
 D:\BTAkademi\Web Prog\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\BTSiteOdev.pdb
 D:\BTAkademi\Web Prog\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\BTSiteOdev.genruntimeconfig.cache
 D:\BTAkademi\Web Prog\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\ref\BTSiteOdev.dll
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\bin\Debug\net6.0\appsettings.Development.json
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\bin\Debug\net6.0\appsettings.json
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\bin\Debug\net6.0\BTSiteOdev.staticwebassets.runtime.json
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\bin\Debug\net6.0\BTSiteOdev.exe
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\bin\Debug\net6.0\BTSiteOdev.deps.json
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\bin\Debug\net6.0\BTSiteOdev.runtimeconfig.json
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\bin\Debug\net6.0\BTSiteOdev.dll
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\bin\Debug\net6.0\BTSiteOdev.pdb
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\BTSiteOdev.csproj.AssemblyReference.cache
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\BTSiteOdev.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\BTSiteOdev.AssemblyInfoInputs.cache
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\BTSiteOdev.AssemblyInfo.cs
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\BTSiteOdev.csproj.CoreCompileInputs.cache
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\BTSiteOdev.MvcApplicationPartsAssemblyInfo.cache
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\staticwebassets.build.json
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\staticwebassets.development.json
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\scopedcss\bundle\BTSiteOdev.styles.css
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\BTSiteOdev.dll
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\refint\BTSiteOdev.dll
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\BTSiteOdev.pdb
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\BTSiteOdev.genruntimeconfig.cache
+D:\BTAkademi\Ödevlerim\BTSiteOdev\BTSiteOdev\obj\Debug\net6.0\ref\BTSiteOdev.dll
